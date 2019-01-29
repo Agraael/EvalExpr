@@ -1,2 +1,1 @@
-# EvalExpr
-Expression parser in haskell
+# evalexprProject
